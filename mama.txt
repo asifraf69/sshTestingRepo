@@ -2,3 +2,6 @@ this is just a test file
 just testing
 automated test script will have several new features added to it
 just testing badob
+hello lali
+lets try this out
+things are looking good
