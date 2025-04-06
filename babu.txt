@@ -2,3 +2,4 @@ this is a test
 just testing
 just a new Java test script
 end to end test has to be fully automated
+changes made only to the remote side
